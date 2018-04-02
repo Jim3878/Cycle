@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycle", "Cycle.csproj", "{87336A78-5A3A-E89A-F3BE-2D99A9FFF621}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycle.Editor", "Cycle.Editor.csproj", "{64B9156C-0B56-F38F-E145-8C22897EF8D8}"
